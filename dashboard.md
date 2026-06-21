@@ -1,8 +1,8 @@
 
 Weather Dashboard - Nairobi
 
-Date: 2026-06-20
+Date: 2026-06-21
 
-Temperature: 22.4°C
-Wind Speed: 8.2 km/h
-Condition: Mainly clear
+Temperature: 21.5°C
+Wind Speed: 7.5 km/h
+Condition: Partly cloudy
