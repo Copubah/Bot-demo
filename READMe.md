@@ -1,4 +1,4 @@
-# Bot-demo — Daily Weather Bot
+# Bot-demo Daily Weather Bot
 
 A lightweight Python bot that fetches real-time weather data for Nairobi, Kenya and writes a formatted daily report to `dashboard.md`. Runs automatically on a schedule via GitHub Actions no manual intervention needed.
 
