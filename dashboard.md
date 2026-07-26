@@ -4,8 +4,8 @@
 
 | Metric | Value |
 |---|---|
-| Temperature | 19.6°C |
-| Wind Speed | 6.1 km/h |
+| Temperature | 22.2°C |
+| Wind Speed | 7.1 km/h |
 | Condition | Overcast |
 | Humidity | 86% |
 | Precipitation Chance | 0% |
