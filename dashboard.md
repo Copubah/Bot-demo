@@ -1,14 +1,14 @@
 ## Weather Dashboard — Nairobi
 
-**Date:** 2026-10-11
+**Date:** 2026-10-12
 
 | Metric | Value |
 |---|---|
-| Temperature | 23.2°C |
-| Wind Speed | 11.3 km/h |
-| Condition | Light drizzle |
-| Humidity | 98% |
-| Precipitation Chance | 86% |
+| Temperature | 21.3°C |
+| Wind Speed | 10.6 km/h |
+| Condition | Mainly clear |
+| Humidity | 90% |
+| Precipitation Chance | 6% |
 | UV Index | 0.0 |
 
 ---
